@@ -1,0 +1,19 @@
+.search-bar {
+  background: url('../assets/search.png') no-repeat 5px;
+  padding-left: 50px !important;
+}
+
+.table-container{
+  height: 600px;
+  overflow: auto;
+}
+
+.users-table thead {
+  position: sticky;
+  top: 0;
+  background-color: #1095c1;
+}
+
+.users-table th {
+  color: white;
+}
